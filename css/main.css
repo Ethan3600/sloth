@@ -2,7 +2,7 @@
 @import url(extra.css);
 
 html {font-size: 1em;}
-
+h1, h2 { border-bottom: 1px solid #ddd;}
 body {
   background-color: white;
   background-image: url(../img/background.jpg);
